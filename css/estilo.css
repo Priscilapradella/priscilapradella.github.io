@@ -1,0 +1,42 @@
+	body{
+		background-color: #363636;
+	}
+
+	h1{text-align: center;
+		font-family: 'Bree Serif', serif;
+		font-size: 25px;
+
+	}
+
+
+h3{ text-align: left; }
+
+
+
+body {
+        color: pink;
+}
+h1 {
+        color: #FF00FF;
+}
+p {
+        color: rgb(0,0,255)
+}
+
+
+#foto{
+	background-image: url("imagens/foto.jpg");
+	width: 1400px;
+	height: 400px;
+	z-index: -100;
+	top: 0;
+	left: 0;
+	position:absolute;
+	
+}
+
+div{
+	clear: both;
+	display: block;
+	margin: 25px;
+}

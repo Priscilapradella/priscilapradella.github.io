@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(255, 127, 138, 0.466);
+}
+
+.resposta{
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.errada{background-color: yellow; border: 2px dotted orange; outline: 2px dashed red; color: red;}
+.correta{background-color: palegreen; border: 2px dotted green; outline: 2px dashed darkgreen; color: blue;}

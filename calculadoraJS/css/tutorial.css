@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    color:rgb(187, 39, 64);
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#divCentral{
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 400px;
+}
